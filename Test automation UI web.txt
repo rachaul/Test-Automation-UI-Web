@@ -1,0 +1,13 @@
+test automation UI web dari case login facebook
+
+Positive testing  = - ketika user ingin memasukan email/nomor box maka user sudah punya aku yang sudah 
+		      registrasi terlebih dahulu maka baru bisa
+		    
+		    - sama halnya ketika user mau memasukkan email/nomor box, ketika user ingin memasukan 
+		      password user sudah terlebih dahulu sudah membuat password yang terdiri dari 1 abjad besar, 
+		      ada nomor dan ada tanda karakter baru bisa login
+		    
+		    - tulisan forgetten password itu fungsinya untuk ketika user lupa dengan passwordnya
+
+Negative Testing = user terlebih dahulu harus membuat akun dan password di tombol Create New Account baru bisa 
+		   login
